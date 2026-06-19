@@ -1,0 +1,8 @@
+out/
+*.class
+sources.txt
+test-sources.txt
+.devin-bank/
+*.tmp
+.idea/
+.vscode/
